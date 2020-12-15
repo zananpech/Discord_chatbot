@@ -13,4 +13,4 @@ async def hello(ctx):
 
 
 
-bot.run('Nzg3NDI4ODQyOTgwNzY5ODQz.X9U0QQ.IRB0mK_cUfVvrxVhBo_pTZzSbos')
+bot.run('<API token>')
